@@ -9,7 +9,7 @@ Make sure you have the following software installed on your machine:
 - [Git](https://git-scm.com/)
 - [VS Code](https://code.visualstudio.com/) or any code editor of your choice
 - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for VS Code (optional)
-- 
+
 ### Clone the Repository
 1. Visit the GitHub repository: YouTube Clone Design
 2. Click on the "Code" button and select "Download ZIP."
